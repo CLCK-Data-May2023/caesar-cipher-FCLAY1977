@@ -15,5 +15,5 @@ def main():
     encrypted_text = caesar_cipher(plain_text, 5)
     print("Encrypted text:", encrypted_text)
 
-if __name__ == "__main__":
+
     main()
